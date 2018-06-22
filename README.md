@@ -3,6 +3,33 @@
 This repository contains information about the tools that I often use in the visual editor code studio.
 
 ---
+## Global setting
+```json
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontSize": 13,
+  "workbench.colorTheme": "TwoStones",
+  "path-intellisense.extensionOnImport": true,
+  "path-intellisense.autoSlashAfterDirectory": false,
+  "path-intellisense.showHiddenFiles": true,
+  "editor.tabSize": 2,
+  "alignment.beforeSave": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/**": true,
+    "**/build/**": true
+  },
+  "eslint.autoFixOnSave": true,
+}
+```
+
+
+---
 ## Themes & icons
 #### TwoStone Theme
 - Extension name: `gerane.theme-twostones`

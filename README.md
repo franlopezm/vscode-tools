@@ -149,5 +149,25 @@ Align your code by colon(:), assignment(=,+=,-=,*=,/=) and arrow(=>).
   - Autor: _Daniel Imms_
   - Repo: **<a href="https://github.com/Tyriar/vscode-sort-lines" target="_blank">vscode-sort-lines</a>**
 
+#### ESLint
+  - Extension name: `dbaeumer.vscode-eslint`
+  - Autor: _Dirk Baeumer_
+  - Repo: **<a href="https://github.com/Microsoft/vscode-eslint" target="_blank">vscode-eslint</a>**
+
 
 ---
+## Debugging
+#### Turbo Console Log
+Make debugging much easier by automating the operation of writing meaningful log message.
+  - Extension name: `chakrounanas.turbo-console-log`
+  - Autor: _ChakrounAnas_
+  - Repo: **<a href="https://github.com/Chakroun-Anas/turbo-console-log" target="_blank">turbo-console-log</a>**
+
+
+---
+## React snippets
+#### ES7 React/Redux/GraphQL/React-Native snippets
+Provide you Javascript and React/Redux snippets in ES7 with babel plugins features.
+  - Extension name: `dsznajder.es7-react-js-snippets`
+  - Autor: _dsznajder_
+  - Repo: **<a href="https://github.com/dsznajder/vscode-es7-javascript-react-snippets" target="_blank">vscode-es7-javascript-react-snippets</a>**
